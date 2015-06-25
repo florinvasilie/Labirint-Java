@@ -1,1 +1,1 @@
-# Labirint-Java
+Un labirint este reprezentat de o matrice, avand celule libere (camere), celule ocupate (pereti), o pozitie de start si o pozitie de sosire. O solutie a labirintului este reprezentata de o secventa de miscari de tipul: U(p), D(own), L(eft), R(ight) care identifica un drum de la pozitia de start la pozitia finala.
